@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div>Hello, world!</div>
+  <div>Hello, developement mode!</div>
 </template>
 
 <style scoped></style>
